@@ -1,4 +1,4 @@
-# Synopsys R&D Internship Application
+
 
 ## About Me
 
@@ -55,12 +55,7 @@ CGPA: 7.51/10.00
 Pre-University, Karnataka State Board
 Percentage: 87.16%
 
-## Why Synopsys
 
-- Interest in EDA tools and semiconductor innovation
-- Want to work on advanced verification technologies
-- Ready for on-site work in Noida
-- Strong background in SystemVerilog and UVM aligns with Synopsys requirements
 
 ## Key Strengths
 
